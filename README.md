@@ -1,7 +1,7 @@
 # Weather App
 A simple web-based weather app that displays real-time weather data for Kolkata.
 
-🔗 **Live Demo:** [https://weatherapp.10001mb.com/](https://weatherapp.10001mb.com/)
+🔗 **Live Demo:** [Weather App](https://weatherapp.10001mb.com/)
 
 ## 🔧 Features
 - Shows current weather of **Kolkata** at any time
