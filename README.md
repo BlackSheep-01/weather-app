@@ -1,7 +1,7 @@
 # Weather App
 A simple web-based weather app that displays real-time weather data for Kolkata.
 
-## **Live Demo:** [Weather App](https://weatherapp.10001mb.com/)
+## **Live Demo:** [Weather App](https://weather-app.infinityfreeapp.com)
 
 ## 🔧 Features
 - Shows current weather of **Kolkata** at any time
@@ -13,7 +13,7 @@ A simple web-based weather app that displays real-time weather data for Kolkata.
   - Humidity
   - UV index
 - Includes a fallback **RandomWeatherFetcher** if the API fails
-- Hosted using **Byethost** and deployed via **FileZilla**
+- Hosted using **InfinityFree** and deployed via **FileZilla**
 
 ## 🛠️ Tech Stack
 - **HTML**
